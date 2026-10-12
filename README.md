@@ -16,7 +16,7 @@ Trago comigo uma bagagem sólida de experiências anteriores em atendimento, pro
 Atualmente a explorar e a desenvolver competências em:
 
 - **Linguagens & Lógica:** Lógica de programação, Algoritmos, PHP (Laravel).
-- **Controlo de Versão:** Git, GitHub.
+- **Controle de Versão:** Git, GitHub.
 - **Ambiente de Trabalho:** Windows, ferramentas de produtividade e gestão de processos.
 - **Idiomas:** Português (Nativo) | Inglês (Intermediário).
 
